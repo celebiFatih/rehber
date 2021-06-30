@@ -1,0 +1,2 @@
+# Rehber
+Bu projede SQL Server veri tabanı kullanılarak oluşturulan rehber kayıtlarına CRUD işlemleri ugulanması ve rehber listesinde üzerine tıklanan kişinin fotoğrafının ekrana yansıtılması sağlanmıştır.
